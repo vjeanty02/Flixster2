@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/61328054/123585364-19627c00-d7b1-11eb-85e6-d04d71b40468.mp4
+
 ## Flix Part 2
 
 ### User Stories
@@ -18,8 +22,7 @@
 
 ### App Walkthough GIF
 
-[Video](https://imgur.com/uLTi7LX.gif)
-<img src="https://imgur.com/uLTi7LX.gif" width=250><br>
+https://user-images.githubusercontent.com/61328054/123585400-28492e80-d7b1-11eb-9329-37dd384541ec.mp4
 
 ### Notes
 
